@@ -1,0 +1,9 @@
+body {background:azure}
+/* table.directory {background:gainsboro} /**/
+/* tr.directory {background:gainsboro} /**/
+img.directory {border: 0} /**/
+/* table.file {background:gainsboro} /**/
+tr.file {text-align: center} /**/
+img.file {border: 0} /**/
+img.navigation {border: 0} /**/
+td.navigation_chain {width: 1em}
